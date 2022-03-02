@@ -10,7 +10,7 @@
     box-sizing: border-box;
 }
 
-body {
+body { 
     background-color: var(--body-bg-color);
     font-family: 'Poppins', sans-serif;
     height: 100vh;
